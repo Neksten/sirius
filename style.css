@@ -189,6 +189,7 @@ ul {
 	display: grid;
 	border-radius: 5px;
 	height: 150px;
+	padding: 15px;
 }
 .content__button {
 	text-align: center;
